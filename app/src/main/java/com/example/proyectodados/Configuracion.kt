@@ -21,6 +21,7 @@ class Configuracion : AppCompatActivity() {
             intent.putExtra("NOMBRE_JUGADOR", binding.editTextText.text.toString())
             intent.putExtra("CARTA_O_NUMERO", binding.switch1.isChecked)
             intent.putExtra("MOSTRAR_CARTA", binding.radioButton.isChecked)
+
             startActivity(intent)
         }
     }

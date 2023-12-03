@@ -9,14 +9,15 @@
 
     <ProgressBar
         android:id="@+id/progressBar"
-        style="@android:style/Widget.Holo.Light.ProgressBar.Large.Inverse"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
+        style="@android:style/Widget.ProgressBar"
+        android:layout_width="141dp"
+        android:layout_height="152dp"
         android:background="#323C45"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.278" />
 
     <Button
         android:id="@+id/btnExample"

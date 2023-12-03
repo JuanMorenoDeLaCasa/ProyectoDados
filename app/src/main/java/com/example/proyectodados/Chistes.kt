@@ -1,5 +1,6 @@
 package com.example.proyectodados
 
+import android.content.Intent
 import android.os.Binder
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
@@ -10,6 +11,7 @@ import android.speech.tts.TextToSpeech
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
+import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import com.example.proyectodados.databinding.ActivityChistesBinding
@@ -18,6 +20,7 @@ import java.util.Locale
 
 
 class Chistes : AppCompatActivity() {
+
 
     private lateinit var binding : ActivityChistesBinding
     private lateinit var textToSpeech: TextToSpeech  //descriptor de voz
@@ -47,6 +50,7 @@ class Chistes : AppCompatActivity() {
         configureTextToSpeech()  //configuramos nuestro textToSpeech
         initHander()    //lanzaremos un hilo para el progressBar. No es necesario un hilo.
         initEvent()     //Implementación del botón.
+
 
 
     }
@@ -139,4 +143,5 @@ class Chistes : AppCompatActivity() {
         }
         super.onDestroy()
     }
+
 }

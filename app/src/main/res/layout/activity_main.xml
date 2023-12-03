@@ -63,7 +63,7 @@
                 android:gravity="center_horizontal|center_vertical"
                 android:text="Yo también te observo"
                 android:textColor="#FFFFFF"
-                android:textSize="34sp" />
+                android:textSize="26dp" />
         </LinearLayout>
 
         <LinearLayout
@@ -95,7 +95,7 @@
                         android:backgroundTint="#76c3c7"
                         android:textColor="#FFFFFF"
                         app:cornerRadius="20dp"
-                        app:icon="@android:drawable/stat_notify_chat"
+                        app:icon="@android:drawable/ic_lock_idle_alarm"
                         app:iconGravity="textTop"
                         app:iconSize="35dp"
                         app:iconTint="#FFFFFF"
@@ -107,7 +107,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
                         android:gravity="center_horizontal"
-                        android:text="Mensaje"
+                        android:text="Alarma"
                         android:textColor="#FFFFFF" />
                 </LinearLayout>
 
@@ -202,7 +202,7 @@
                         android:backgroundTint="#76c3c7"
                         android:textColor="#FFFFFF"
                         app:cornerRadius="20dp"
-                        app:icon="@android:drawable/star_big_off"
+                        app:icon="?attr/actionModeShareDrawable"
                         app:iconGravity="textTop"
                         app:iconSize="35dp"
                         app:iconTint="#FFFFFF"
@@ -214,7 +214,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
                         android:gravity="center_horizontal"
-                        android:text="Favoritos"
+                        android:text="Url"
                         android:textColor="#FFFFFF" />
                 </LinearLayout>
 
