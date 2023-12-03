@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">ProyectoDados</string>
+    <string name="describe">Ahora escucharas una seleccion de los mejores chistes de Joaquin</string>
+    <string-array name="chistes_array">
+        <item>Esto es un muchacho que está en el casino y lleva toda la noche perdiendo dinero. De repente ve a otro que está jugando a la ruleta con muchas fichas y se le acerca para preguntarle cómo lo hace.
+
+-No tiene ni trampa ni cartón. Yo solamente pienso en las veces que hago el amor con mi mujer y eso es lo que pongo.
+
+Copiada la estrategia, el muchacho se juega todo su dinero al 1. La ruleta gira y termina cayendo en el cero.
+
+-Vaya, eso me pasa por vacilar.</item>
+        <item>¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter.</item>
+        <item>Cuarenta años casados y nunca me has comprado nada.
+
+-¿Y tú qué vendes, joe?</item>
+        <item>>Esto es uno que no había montado nunca en avión y se sube, acojonado, y llama a la azafata.
+
+-Buenas, señor. ¿Está usted bien?
+
+-Sí, mira. Por favor, un poquito de agua.
+
+El señor cada vez más nervioso, ya no sabía ni dónde mirar. Y vuelve a llamar a la azafata cuando están a punto de despegar.
+
+-Oye, si esto sale ardiendo mientras volamos, ¿por dónde salimos?
+
+-Por la tele</item>
+        <item>¿Manuel, qué te pasa?
+
+-Que me ha dado el médico dos meses de vida…
+
+-Y…¿tú qué le has dicho?
+
+-Que si pueden ser julio y agosto.</item>
+        <item>Se estaba jugando el Betis meterse en la Champions en un partido y estaba todo el campo a reventar. Solo había un asiento vacío. Un señor va a sentarse en él y antes le pregunta a la señora de al lado.
+
+“¿Es suyo este asiento?”. Y ella responde: “Era de mi marido pero el pobre ha fallecido”.
+
+“Lo siento. ¿Y por qué no ha venido nadie de su familia?”, pregunta él.
+
+Y ella le responde: “Es que ellos han preferido ir al entierro”.</item>
+        <item>Un niño le dice a su padre: “Papá, en el colegio me han preguntado si sé lo que significa ‘secuela’. ¿Lo sabes tú?”.
+
+Y el padre le responde: “Claro hijo, ¿te acuerdas cuando fuimos a comprar el otro día al supermercado y se nos coló una señora y yo le di un cate y se cayó al suelo con las bolsas? Ea, pues esa ya no se cuela más”.</item>
+        <item>Una mujer le dice a su marido: “Cariño, la lavadora se ha calcificado”. Y responde el marido: “¿Para qué? ¿Para la final de Copa o para la de la Champions?”.</item>
+        <item>José, me ha dejado mi mujer
+
+¿Por qué?
+
+Porque dice que estoy obsesionado con el fútbol
+
+Oye, y tú ¿cuánto llevabas con tú mujer?
+
+Pues 9 temporada</item>
+        <item>Dice, Antonia ¿de dónde vienes?
+
+Dice, de la peluquería.
+
+Dice, ¿que estaba cerrada no?</item>
+    </string-array>
+
+</resources>
